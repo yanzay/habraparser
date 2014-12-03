@@ -1,4 +1,5 @@
-habraparser
+Habrahabr Feed Parser
 ===========
 
-Get latest topics from specified habs from habrahabr
+Get latest topics from specified habs from habrahabr.
+
